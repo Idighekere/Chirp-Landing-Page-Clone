@@ -230,6 +230,9 @@ nav ul {
     transform: translateX(-100%);
     transition: transform .5s ease-in-out;
 }
+nav ul button {
+    font-size: 17px;
+}
 
 header {
     padding: 1em 1.3em;
