@@ -305,6 +305,10 @@ nav ul li {
     nav ul {
         display: flex;
         align-items: center;
+        position: static;
+        min-height: 0;
+        transform: none;
+        width: 0;
     }
 
     .burger {
