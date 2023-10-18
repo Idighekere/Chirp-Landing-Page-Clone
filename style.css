@@ -308,7 +308,7 @@ nav ul li {
         position: static;
         min-height: 0;
         transform: none;
-        width: 0;
+        
     }
 
     .burger {
